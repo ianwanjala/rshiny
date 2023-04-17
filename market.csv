@@ -1,0 +1,5 @@
+product id,revenue before,research date,revenue after
+P001,1000,01/01/2021,1200
+P002,2500,05/01/2021,2700
+P001,500,10/01/2021,600
+P002,3500,12/01/2021,3800

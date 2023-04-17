@@ -1,0 +1,13 @@
+name: cat2
+title:
+username:
+account: lukuya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8867176
+bundleId: 7097271
+url: https://lukuya.shinyapps.io/cat2/
+when: 1681693408.61744
+lastSyncTime: 1681693408.61753
+asMultiple: FALSE
+asStatic: FALSE
